@@ -1,5 +1,5 @@
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=35F724&center=true&repeat=false&width=435&lines=3D+engine+in+C%2B%2B)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=35F724&center=true&repeat=false&width=435&lines=3D+engine+in+C%2B%2B)" alt="Typing SVG" />
 </p>
 
 <!--
