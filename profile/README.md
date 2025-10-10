@@ -13,5 +13,5 @@
 
 - **3D Graphics**: Basic 3D rendering.
 - **Material system**: Well, still in development.
-- **Lighting**: PHONG lighting model.
+- **Lighting**: Blinn-Phong lighting model.
 - **Texture loading**: Only `.png` supported yet.
