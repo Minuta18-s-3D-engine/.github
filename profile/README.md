@@ -14,4 +14,5 @@
 - **3D Graphics**: Modern 3D pipeline with clustered deferred shading.
 - **Material system**: Well, still in development.
 - **Lighting**: Blinn-Phong lighting model with clustered deferred pipeline.
-- **Texture loading**: Only `.png` supported yet.
+- **Texture loading**: `.png` and `.jpg` support.
+- **Model loading**: all popular formats (thanks to assimp), however this system is not fully comoplete
